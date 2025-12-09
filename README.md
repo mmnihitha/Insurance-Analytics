@@ -6,7 +6,7 @@ The dashboard helps to analyze policy performance, claim insights, customer segm
 
 ![Image alt](https://github.com/mmnihitha/Insurance-Analytics/blob/main/Excel%20dashboard%20screenshot.png?raw=true)
 
-![Image alt](
+![Image alt](https://github.com/mmnihitha/Insurance-Analytics/blob/main/Power%20BI%20dashboard%20screenshot.png?raw=true)
 ---
 
 ## 📊 Project Overview
