@@ -4,8 +4,9 @@
 This project is an interactive **Insurance Analytics Dashboard** developed using **Power BI**.  
 The dashboard helps to analyze policy performance, claim insights, customer segments and business KPIs in an interactive visual format.
 
-![Image alt] (https://github.com/mmnihitha/Insurance-Analytics/blob/main/Excel%20dashboard%20screenshot.png?raw=true)
+![Image alt](https://github.com/mmnihitha/Insurance-Analytics/blob/main/Excel%20dashboard%20screenshot.png?raw=true)
 
+![Image alt](
 ---
 
 ## 📊 Project Overview
